@@ -11,3 +11,21 @@
 
 ![Visualization eg1](DepthAnything-cow3d.png)  
 ![Visualization eg2](DepthAnything-coco3d.png)  
+
+---
+
+## 🏗️ Methodology
+
+- 🔳 Object Detection Model: **PekingU/rtdetr_r50vd_coco_o365**
+- 🔳 Framework: **PyTorch + Hugging Face**
+- 🔳 Depth Estimation Model: **Depth-Anything-V2-Small-hf**
+- 🔳 Framework: **Hugging Face**
+
+---
+
+## ⭐ Acknowledgements
+
+- RTDetr powered by `Hugging Face`
+- DepthAnythingV2 powered by `Hugging Face`
+
+---
